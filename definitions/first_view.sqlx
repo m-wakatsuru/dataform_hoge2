@@ -12,6 +12,6 @@ config {
 }
 
 -- The rest of a SQLX file contains your SELECT statement used to create the table.
--- hoge
+-- hogehoge
 
-SELECT 1 as test
+SELECT 1,2,3,4,5,6 as test
